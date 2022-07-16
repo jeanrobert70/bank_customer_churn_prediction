@@ -15,9 +15,8 @@ It is much more expensive to market to and sign in a new client than to keep an 
 * EstimatedSalary
 
 ### Contents:
-* Set up Environment
-* Data set
-* Data Cleaning
-* Feature Engineering
-* Modeling
-* Experimentation
+1. Set up Environment
+2. Data set
+3. Data Cleaning
+4. Modeling
+5. Testing Model
